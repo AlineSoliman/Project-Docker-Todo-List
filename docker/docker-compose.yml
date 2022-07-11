@@ -15,11 +15,11 @@ services:
     environment:
         - REACT_APP_API_HOST=todoback
     ports:
-      -3000:3000
+      - 3000:3000
   todoback:
     image: todobackend
     ports:
-      -3001:3001
+      - 3001:3001
 
 
 
