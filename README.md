@@ -1,16 +1,9 @@
-# 🚧 README em construção 🚧
+## Projeto feito durante o curso de Desenvolvimento de Software na Trybe - Módulo Back-End
 
-<!-- Olá, Tryber!
+# Habilidades
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
-
-É essencial que você preencha esse documento por conta própria, ok?
-
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
-
--->
+* Conteinerizar aplicações;
+* Criar uma conexão entre elas;
+* Orquestrar seu funcionamento.
+* Desenvolver os arquivos de configuração para cada frente específica: Front-end, Back-end e, no nosso caso, para um aplicativo de teste que valida se as aplicações estão se comunicando.
+* Você deverá criar as imagens para as aplicações e configurar essas imagens com o docker-compose.
