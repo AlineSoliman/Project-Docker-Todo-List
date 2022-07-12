@@ -6,7 +6,7 @@ services:
       - todofront
       - todoback
     environment:
-      - FROM_HOST=todofront
+      - FRONT_HOST=todofront
   todofront:
     image: todofrontend
     depends_on:
