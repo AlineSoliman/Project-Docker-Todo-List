@@ -6,4 +6,4 @@
 * Criar uma conexão entre elas;
 * Orquestrar seu funcionamento.
 * Desenvolver os arquivos de configuração para cada frente específica: Front-end, Back-end e, no nosso caso, para um aplicativo de teste que valida se as aplicações estão se comunicando.
-* Você deverá criar as imagens para as aplicações e configurar essas imagens com o docker-compose.
+* Criação de imagens para as aplicações e configurar essas imagens com o docker-compose.
